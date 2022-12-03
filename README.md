@@ -38,3 +38,4 @@ A third way to lower costs using current data is planting those species that hav
 ![image](https://user-images.githubusercontent.com/66132013/205445013-bd2e023a-1571-48b3-ac23-2b308bb93301.png)
 
 
+What I took away from this project was experience shifting topic areas many times and slowly. Questions I had were answered with some relationships and in the Live setting of Tableau while others were answered in the Extract setting on different foreign keys. Throughout the project, I kept thinking of what the most important information that I had access to was. Along the way, I learned Tableau Create Table Calculations for age of the trees and table access through relationships and worked on GitHub Large File Storage. This project happened at a tiring time that took a lot of of me, est. resume re-working, though the value of production was worthwhile. I hope to improve analysis skills and more easily find measures I am looking for.
